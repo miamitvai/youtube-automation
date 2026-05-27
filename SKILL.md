@@ -48,7 +48,7 @@ Open the existing CapCut project called **MUSIC**. Do NOT create a new project. 
 2. **Replace the video clips** → select each existing scenery clip on the timeline and swap it with the new Grok image:
    - Right-click the clip → "Replace" (desktop) or long-press → "Replace" (mobile)
    - Replace all 5 clips with the 5 new images in order
-   - Keep the same durations already set in the project
+   - Set each clip duration to **10 seconds**
 3. **Replace the music** → find the audio/music track on the timeline:
    - Delete the existing music track only
    - Add the new audio file in its place
